@@ -1,4 +1,5 @@
 Aspect: - It will be a (shooting + adventurous) game. There will be five stages in the game.
+
 Problem/Challenge: -
 There will be four stages in total.
 1.	First stage will start from the person who survives in the bomb blast and will end when he gets the medicines.
