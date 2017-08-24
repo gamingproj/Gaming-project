@@ -15,6 +15,8 @@ Inspiration: - The story will begin from: -
 5.	You locate the other bombs and defuse them. But you find out that there is another bomb pointed in a location. 
 6.	You are given a time limit to diffuse the bomb and if you succeed, you get a reward.
 
-Time Frame: -
-1.	Each stage should be done in week at max.
+Time Frame: - 1 month
+
+Jobs:- 1234
+
 
