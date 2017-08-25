@@ -1,0 +1,13 @@
+import pygame, sys   #importing modules pygame and sys
+from pygame.locals import * # specific import from pygame
+
+pygame.init() #initializing the game
+DS=pygame.display.set_mode((400,300)) #Display parity of dimension 400, 300 of the game window
+pygame.display.set_caption('TGM') #Caption or name of the Game
+
+while True: # Basic while loop for the game events
+        for event in pygame.event.get(): #Fetching pygame event library
+                if event.type == QUIT: #Quiting the game on clicking the X
+                        pygame.quit() #Function to quit pygame libraries
+                        sys.exit() #Function to quit the game entirely
+        pygame.display.update() #Updating the moves of the game especially mouse cursor
